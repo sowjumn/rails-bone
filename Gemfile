@@ -5,6 +5,8 @@ gem 'pg'
 gem 'sass-rails'
 gem 'jquery-rails'
 gem 'uglifier', '>= 1.3.0'
+gem 'mustache'
+gem 'hogan_assets'
 
 group :development, :test do
   gem 'awesome_print'
